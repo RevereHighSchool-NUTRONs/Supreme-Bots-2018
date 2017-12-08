@@ -1,10 +1,10 @@
-package org.firstinspires.ftc.teamcode.Supreme;
+package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.hardware.HardwareMap;
 
 import org.firstinspires.ftc.teamcode.BBLibrary.Hardware.BBMotor;
-import org.firstinspires.ftc.teamcode.Supreme.SupremeSubsystems.SupremeDrivetrain;
-import org.firstinspires.ftc.teamcode.Supreme.SupremeSubsystems.SupremeElevator;
+import org.firstinspires.ftc.teamcode.SupremeSubsystems.SupremeDrivetrain;
+import org.firstinspires.ftc.teamcode.SupremeSubsystems.SupremeElevator;
 
 /**
  * Created by Josh on 10/12/2017.
